@@ -1,14 +1,25 @@
-  .logo{
-  margin-top: -11px;
+  .logo {
+      margin-top: -11px;
   }
   .title {
-  float: left;
-  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  font-size: 17px;
-  letter-spacing: 2.5px;
-  text-transform: uppercase;
-}
-html, body, h1 {
-  margin: 0;
-  padding: 0;
-}
+      float: left;
+      font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      font-size: 17px;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+  }
+  html,
+  body,
+  h1 {
+      margin: 0;
+      padding: 0;
+  }
+  p {
+      font-size: 16px;
+  }
+  .panel-heading {
+      font-size: 16px;
+  }
+  .amount {
+      width: 54%;
+  }
